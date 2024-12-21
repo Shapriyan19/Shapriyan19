@@ -8,14 +8,13 @@ A passionate **full-stack developer** currently studying at NTU, exploring the e
 ### 🌟 **About Me**
 - 🔭 **Currently working on:** Full Stack and Decentralized Web3 projects.
 - 🌱 **Currently learning:** `Node.js`, `Next.js`, `MongoDB`, `Solidity`, and Smart Contract Development.
-- 🎯 **Goals for 2024:** Contribute to open-source blockchain projects and get experienced in Web3 development.
+- 🎯 **Goals for 2025:** Get experienced in Web3 development and get started to learn about Cybersecurity.
 - 📫 **How to reach me:** [priyanmartian@gmail.com](mailto:priyanmartian@gmail.com)
 
 ---
 
 ### 🚀 **Languages & Tools**
 <p align="left">
-  Got it! Here’s the updated **Languages & Tools** section with only the ones shown in your image:
 
 ---
 
