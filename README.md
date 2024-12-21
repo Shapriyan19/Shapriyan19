@@ -15,11 +15,6 @@ A passionate **full-stack developer** currently studying at NTU, exploring the e
 
 ### 🚀 **Languages & Tools**
 <p align="left">
-
----
-
-### 🚀 **Languages & Tools**
-<p align="left">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
