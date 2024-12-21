@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### I'm Shanmugapriyan Kalaiselvan
-A passionate **full-stack developer** currently studying at NTU, exploring the exciting world of **Web3** and **blockchain technology**. I love building scalable and efficient solutions with cutting-edge tools and frameworks.
+A passionate **full-stack developer** currently studying at NTU, exploring the exciting world of **Web3** and **Cybersecurity**. I love building scalable and efficient solutions with cutting-edge tools and frameworks.
 
 ---
 
