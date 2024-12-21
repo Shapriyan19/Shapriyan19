@@ -1,24 +1,80 @@
-<h1 align="center">Hi 👋, I'm Shanmugapriyan Kalaiselvan</h1>
-<h3 align="center">A passionate full stack developer currently studying in NTU</h3>
+## Hi there 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shapriyan19&label=Profile%20views&color=0e75b6&style=flat" alt="shapriyan19" /> </p>
+### I'm Shanmugapriyan Kalaiselvan
+A passionate **full-stack developer** currently studying at NTU, exploring the exciting world of **Web3** and **blockchain technology**. I love building scalable and efficient solutions with cutting-edge tools and frameworks.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shapriyan19" alt="shapriyan19" /></a> </p>
+---
 
-- 🔭 I’m currently working on **Web3**
+### 🌟 **About Me**
+- 🔭 **Currently working on:** Decentralized Web3 projects.
+- 🌱 **Currently learning:** `Node.js`, `Next.js`, `MongoDB`, `Solidity`, and Smart Contract Development.
+- 🎯 **Goals for 2024:** Contribute to open-source blockchain projects and get experienced in Web3 development.
+- 📫 **How to reach me:** [priyanmartian@gmail.com](mailto:priyanmartian@gmail.com)
 
-- 🌱 I’m currently learning **NodeJS,NextJS,MangoDB and Solidity**
+---
 
-- 📫 How to reach me **priyanmartian@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+### 🚀 **Languages & Tools**
 <p align="left">
-<a href="https://www.leetcode.com/shapriyan19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shapriyan19" height="30" width="40" /></a>
+  Got it! Here’s the updated **Languages & Tools** section with only the ones shown in your image:
+
+---
+
+### 🚀 **Languages & Tools**
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=machine-learning&logoColor=white" alt="Machine Learning"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shapriyan19&show_icons=true&locale=en&layout=compact" alt="shapriyan19" /></p>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shapriyan19&" alt="shapriyan19" /></p>
+---
+
+### 📊 **GitHub Stats**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shapriyan19&color=blue" alt="Profile Views" />
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Shapriyan19&theme=radical&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shapriyan19&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 🌟 **Featured Projects**
+1. [**🎮 Video Games Sales Prediction**](https://github.com/Shapriyan19/Video_Games_Sales_Prediction)  
+   A data science project predicting global sales of video games using Linear Regression, Lasso Regression, and Radial Basis Function Networks. Features data cleaning, exploratory analysis, and advanced modelling techniques.
+   
+2. [**💳 Credit Card Fraud Detection**](https://github.com/Shapriyan19/Datathon)  
+   A deep learning model to detect fraudulent credit card transactions using a Deep Neural Network (DNN) and Explainable AI (XAI) with LIME for interpretability. Developed as part of the MLDA EEE Datathon, tackling class imbalance and achieving high precision.
+
+3. [**🏥 Hospital Management System (HMS)**](https://github.com/Shapriyan19/SC2002_HMS)  
+   A Java-based application for automating hospital operations, including patient management, appointment scheduling, staff management, and inventory control. Implements role-based access control with separate functionalities for administrators, doctors, pharmacists, and patients.
+
+---
+
+### 🎯 **What I'm Learning**
+- 🔐 Developing secure smart contracts and exploring advanced Web3.js integrations.
+- ⚙️ Building backends with Node.js and MongoDB
+- 🌐 Exploring advanced **React and Next.js** concepts for modern web development.
+
+---
+
+### 📫 **Connect With Me**
+<p align="left">
+  <a href="mailto:priyanmartian@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
