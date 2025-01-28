@@ -35,17 +35,6 @@ A passionate **full-stack developer** currently studying at NTU, exploring the e
 
 </p>
 
----
-
-### 📊 **GitHub Stats**
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shapriyan19&color=blue" alt="Profile Views" />
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Shapriyan19&theme=radical&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shapriyan19&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
 
 ### 🌟 **Featured Projects**
 1. [**🎮 Video Games Sales Prediction**](https://github.com/Shapriyan19/Video_Games_Sales_Prediction)  
